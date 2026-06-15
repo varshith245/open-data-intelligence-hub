@@ -1,1 +1,0 @@
-World Population Intelligence Platform
