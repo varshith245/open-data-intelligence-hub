@@ -4,8 +4,7 @@
 
 Dataset Used: Advertising Dataset
 
-Rows: 200
-Columns: 5
+Rows: 200  Columns: 5
 
 ## Data Quality Issues
 
